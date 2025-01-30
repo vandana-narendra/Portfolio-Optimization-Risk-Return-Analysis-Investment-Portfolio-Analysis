@@ -1,4 +1,4 @@
-_# Portfolio Optimization: Evaluating Risk-Return Trade-offs Across Investment Strategies_
+# Portfolio Optimization: Evaluating Risk-Return Trade-offs Across Investment Strategies
 This project explores portfolio optimization and risk-return trade-offs using Python, focusing on helping investors make informed decisions about where to allocate their wealth based on historical performance and financial theory. 
 
 ## Objective
